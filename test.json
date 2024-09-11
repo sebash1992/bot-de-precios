@@ -1,0 +1,16 @@
+{
+    "id_busqueda": "305",
+    "pagina": 0,
+    "filtros": {
+      "preciomenor": -1,
+      "preciomayor": -1,
+      "marca": [],
+      "categoria": [],
+      "tipo_seleccion": "categoria",
+      "filtros_gramaje": [],
+      "cant_articulos": 0,
+      "ofertas": false,
+      "modificado": false,
+      "primer_filtro": ""
+    }
+  }
